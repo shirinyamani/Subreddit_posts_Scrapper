@@ -21,7 +21,7 @@ We can access the Pushshift API through building an URL with the relevant parame
 
 • subreddit — to narrow it down to a particular subreddit
 
-### Key information for our Submissions subreddits(vim+emacs) data extraction:
+### metrics for our submissions subreddits(vim+emacs) data extraction:
 • author name —(author)
 
 • title of the post —(title)
