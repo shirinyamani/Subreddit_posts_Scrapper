@@ -34,7 +34,7 @@ We can access the Pushshift API through building an URL with the relevant parame
 
 • number of comments of the posts —(num_comments)
 
-Created URL based on the key imformation that we want to extract from the posts: 
+Created URL based on the key imformation that we want to extract from the posts:  
 
 https://api.pushshift.io/reddit/submission/search/?before={next_date}&after={first_date}&fields=created_utc,author,title,num_comments,url,upvote,score&size=500&limit=100&sort=desc&subreddit={subreddit}"
 
